@@ -451,7 +451,6 @@ With the requirement:
 
 **Alex Quinn**
 - GitHub: [@AlexQuinn-Analytics](https://github.com/AlexQuinn-Analytics)
-- Portfolio: [Your Portfolio Link]
 
 ## 🙏 Acknowledgments
 
