@@ -4,7 +4,7 @@ A comprehensive RESTful API for a distributed e-commerce platform, demonstrating
 
 ## 🎯 Project Overview
 
-VortexNet is a fully functional e-commerce system backend that implements:
+This is a fully functional e-commerce system backend that implements:
 - Clean REST API design with proper HTTP semantics
 - Three-layer architecture for maintainable code
 - Dependency injection and IoC container patterns
